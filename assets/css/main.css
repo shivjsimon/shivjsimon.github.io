@@ -1318,9 +1318,9 @@
 				}
 
 					#header h1 a {
-						color: #fff;
+						color: #ffc61e;
 						text-decoration: none;
-					}
+						font-family: Impact					;}
 
 				#header nav {
 					position: absolute;
